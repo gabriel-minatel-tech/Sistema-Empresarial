@@ -10,7 +10,7 @@ acesso direto (random access) através de movimentação do ponteiro de arquivo
 (fseek).
 - Desenvolver sub-rotinas coesas, com responsabilidade única e baixo acoplamento.
 
-- # 🍺 Sistema de Gerenciamento
+# 🍺 Sistema de Gerenciamento
 
 Um sistema de gerenciamento de estoque em **C++**, executado no console, criado para ajudar pequenos comércios, como bares e lanchonetes, a manter seus produtos organizados de forma simples e rápida.
 
